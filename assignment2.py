@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+#Author: Vrisha Suratwala
 import subprocess
 def get_uptime():
 	#Returns system uptime as a string
